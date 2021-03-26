@@ -1,0 +1,4 @@
+name = Client Specific
+description = Provide Specific Functionality for Client
+package = Client Custom
+core = 7.x
